@@ -1,0 +1,15 @@
+{
+  "name": "youtubeclonebackendproject",
+  "version": "1.0.0",
+  "description": "A youtube Clone backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascirpt",
+    "backend"
+  ],
+  "author": "Suryansh Chattree",
+  "license": "ISC"
+}
